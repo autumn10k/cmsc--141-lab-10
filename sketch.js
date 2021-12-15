@@ -1,6 +1,11 @@
 //Sprite creation
 //Click to create a new sprite with random speed
-
+/* Autumn Knight <ak8170@bard.edu> 
+  12/14/21
+  CMSC 141
+  Lab 10
+  I recieved help from Arnav. 
+*/
 function setup() {
   createCanvas(800, 400);
 }
